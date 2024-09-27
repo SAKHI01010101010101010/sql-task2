@@ -1,0 +1,1 @@
+update employee_details1 set departmentid = 0 where IsActive = False;
